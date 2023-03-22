@@ -1,9 +1,10 @@
 #include "main.h"
-        /**
+	/**
 	 * main - print _putchar
+	 * Description: 'print _putchar to stdout'
+	 * is written by abrar
 	 * Return: 0
 	 */
-
 
 
 	int main(void)
