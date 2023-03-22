@@ -1,6 +1,6 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
+	 * main - main function
 	 * Description: 'print _putchar to stdout'
 	 * is written by abrar
 	 * Return: 0
