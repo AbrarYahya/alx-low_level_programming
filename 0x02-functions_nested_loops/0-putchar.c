@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - main function print _putchar
-	 * is written by mbah
-	 * Return: 0
+	 * main - entry ponit 
+	 *
+	 * Return: Always 0 (success)
 	 */
 
 
