@@ -1,9 +1,9 @@
 #include "main.h"
-	/**
-	 * main - entry ponit 
-	 *
-	 * Return: Always 0 (success)
+        /**
+	 * main - print _putchar
+	 * Return: 0
 	 */
+
 
 
 	int main(void)
