@@ -1,7 +1,7 @@
 #include "main.h"
 	/**
 	 * main function - main function
-	 * Description: 'print _putchar to stdout'
+	 * _putchar - writ the character c to stdout
 	 * is written by abrar
 	 * Return: 0
 	 */
